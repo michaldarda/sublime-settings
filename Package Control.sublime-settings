@@ -1,0 +1,38 @@
+{
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Apply Syntax",
+		"AutoFileName",
+		"BracketHighlighter",
+		"CTags",
+		"Emmet",
+		"EncodingHelper",
+		"ERB Snippets",
+		"FolderTouch",
+		"GitGutter",
+		"Goto Documentation",
+		"Haml",
+		"iOpener",
+		"Markdown Preview",
+		"PlainTasks",
+		"Pretty JSON",
+		"Pretty YAML",
+		"Rails Migrations List",
+		"RSpec",
+		"Ruby Slim",
+		"RubyTest",
+		"Search Stack Overflow",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-ruby",
+		"SublimeREPL",
+		"SyncedSideBar",
+		"Theme - Soda",
+		"TrailingSpaces",
+		"TrailingSpaces",
+		"VAlign",
+		"Worksheet"
+	]
+}
