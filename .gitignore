@@ -1,5 +1,5 @@
-*.sublime-settings
 *.tm-Theme
 *.cache
+*.last-run
 *.SublimeREPLHistory.cache/
 *.Package Control.cache/
