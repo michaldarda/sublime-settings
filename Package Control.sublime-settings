@@ -2,7 +2,7 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
-		"Apply Syntax",
+		"ApplySyntax",
 		"AutoFileName",
 		"BracketHighlighter",
 		"CTags",
@@ -19,6 +19,7 @@
 		"Pretty JSON",
 		"Pretty YAML",
 		"Rails Migrations List",
+		"RailsCasts Colour Scheme",
 		"RSpec",
 		"Ruby Slim",
 		"RubyTest",
@@ -30,7 +31,6 @@
 		"SublimeREPL",
 		"SyncedSideBar",
 		"Theme - Soda",
-		"TrailingSpaces",
 		"TrailingSpaces",
 		"VAlign",
 		"Worksheet"
