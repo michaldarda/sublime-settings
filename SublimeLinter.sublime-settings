@@ -10,7 +10,12 @@
             "annotations": {
                 "@disable": false,
                 "args": [],
-                "errors": [],
+                "errors": [
+                    "TODO",
+                    "FIXME",
+                    "FIX ME",
+                    "TO DO"
+                ],
                 "excludes": [],
                 "warnings": [
                     "TODO",
