@@ -1,12 +1,37 @@
 {
-    "default": {
+    "user": {
         "debug": false,
-        "delay": 0.00,
+        "delay": 0.0,
         "error_color": "D02000",
         "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default.gutter-theme",
         "gutter_theme_excludes": [],
         "lint_mode": "background",
+        "linters": {
+            "annotations": {
+                "@disable": false,
+                "args": [],
+                "errors": [],
+                "excludes": [],
+                "warnings": [
+                    "TODO",
+                    "FIXME",
+                    "FIX ME",
+                    "TO DO"
+                ]
+            },
+            "json": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "ruby": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            }
+        },
         "mark_style": "outline",
+        "no_column_highlights_line": false,
         "paths": {
             "linux": [],
             "osx": [],
