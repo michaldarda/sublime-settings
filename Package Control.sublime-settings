@@ -10,6 +10,7 @@
 		"EncodingHelper",
 		"ERB Snippets",
 		"FolderTouch",
+		"Gist",
 		"GitGutter",
 		"Goto Documentation",
 		"Haml",
@@ -23,6 +24,7 @@
 		"RSpec",
 		"Ruby Slim",
 		"RubyTest",
+		"RubyToggleString",
 		"SCSS",
 		"Search Stack Overflow",
 		"SideBarEnhancements",
@@ -37,6 +39,7 @@
 		"SyncedSideBar",
 		"Theme - Soda",
 		"Theme - Vim Blackboard",
+		"Tomorrow Color Schemes",
 		"TrailingSpaces",
 		"VAlign",
 		"Worksheet"
