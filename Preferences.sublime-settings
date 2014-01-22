@@ -2,7 +2,7 @@
 	"auto_indent": true,
 	"bold_folder_labels": true,
 	"caret_style": "blink",
-	"color_scheme": "Packages/User/RailsCastsColorScheme (SL).tmTheme",
+	"color_scheme": "Packages/Theme - Spacefunk/Future Funk (Grey Tuesday).tmTheme",
 	"default_line_ending": "unix",
 	"drawWhiteSpace": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -28,6 +28,7 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"GitGutter",
 		"Vintage"
 	],
 	"show_minimap": false,
@@ -35,7 +36,7 @@
 	"soda_classic_tabs": false,
 	"soda_folder_icons": true,
 	"tab_size": 2,
-	"theme": "Soda Light 3.sublime-theme",
+	"theme": "Phoenix Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
