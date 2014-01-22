@@ -2,7 +2,7 @@
 	"auto_indent": true,
 	"bold_folder_labels": true,
 	"caret_style": "blink",
-	"color_scheme": "Packages/Theme - Spacefunk/Future Funk (Grey Tuesday).tmTheme",
+	"color_scheme": "Packages/User/RailsCastsColorScheme (SL).tmTheme",
 	"default_line_ending": "unix",
 	"drawWhiteSpace": true,
 	"ensure_newline_at_eof_on_save": true,
