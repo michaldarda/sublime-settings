@@ -28,7 +28,6 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"GitGutter",
 		"Vintage"
 	],
 	"show_minimap": false,
