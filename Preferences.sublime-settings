@@ -2,7 +2,7 @@
 	"auto_indent": true,
 	"bold_folder_labels": true,
 	"caret_style": "blink",
-	"color_scheme": "Packages/Theme - Spacefunk/Future Funk (Grey Tuesday).tmTheme",
+	"color_scheme": "Packages/User/Tomorrow-Night-Bright (SL).tmTheme",
 	"default_line_ending": "unix",
 	"drawWhiteSpace": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -26,9 +26,11 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage"
 	],
 	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+	],
 	"show_minimap": false,
 	"smart_indent": false,
 	"soda_classic_tabs": false,
